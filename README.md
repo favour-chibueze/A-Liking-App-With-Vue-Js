@@ -1,4 +1,4 @@
-# liking-app
+# Anime liking-app with Vue-Js
 
 ## Project setup
 ```
